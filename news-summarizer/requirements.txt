@@ -1,0 +1,6 @@
+transformers
+datasets
+sumy
+rouge-score
+nltk
+tqdm
