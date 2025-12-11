@@ -49,7 +49,7 @@ Copy code
 
 ---
 
-## 📊 Example ROUGE Output
+## 📊 ROUGE Output
 
 | Model | ROUGE-1 | ROUGE-2 | ROUGE-L |
 |------|---------|---------|---------|
